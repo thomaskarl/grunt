@@ -1,0 +1,23 @@
+{
+  "name": "gruntmodule",
+  "version": "1.0.0",
+  "description": "grunt",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomaskarl/grunt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Karl Andersson",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
